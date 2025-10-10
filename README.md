@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GreenMalware
-- 👀 I’m interested in malware.
+- 👋 Hi, I’m @Smurfyx10
+- 👀 I’m interested in android rooting and ROMS!
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ransomeware.
+- 💞️ I’m looking to collaborate on LineageOS.
 - 📫 How to reach me. @ImNotGreenBLOX on ROBLOX.
 
 <!---
