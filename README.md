@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Smurfyx10!
-- 🤩 I’m interested in Unity and Android.
-- 📱 I'm trying to make my own Custom ROM!
-- 📫 You can reach me at my email: smurfycompany@gmail.com
-
+# Hey there!
+I'm **Smurfy**, a person who is interested in Linux, and Android.
+I want to learn even more about software, and be a software engineer *hopefully* one day.
